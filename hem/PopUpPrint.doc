@@ -1,0 +1,146 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+
+</title></head>
+<body>
+   <div>
+   <table style="width: 633px" border="0">
+       <tr align="left">
+           <td  style="width: 618px;font-family:Verdana; font-size:12px;"><span id="lblResignDt">21 Apr 2017</span>
+           </td>
+       </tr>
+       <tr>
+           <td class="letter" style="width: 121px">
+           </td>
+       </tr>
+       <tr>
+           <td class="letter" style="width: 121px;font-family:Verdana; font-size:12px;">From, 
+               
+           </td>
+       </tr>
+       
+       
+       <tr>
+           <td style="width: 121px">
+           </td>
+       </tr>
+       
+       <tr>
+           <td style="width: 544px;font-family:Verdana; font-size:12px;"><span id="lblEmpName">Hemanth Kumar Battula</span></td>
+       </tr>
+       <tr>
+       <td style="width: 544px;font-family:Verdana; font-size:12px;">HR / <span id="lblEmpNo">2584159</span></td>
+            </tr>
+       
+         <tr>
+   <td style="width: 150px; height: 21px;font-family:Verdana; font-size:12px;"><span id="lblEmpDesig">Spec-System Dev</span>
+      </td>
+   </tr>
+       
+       <tr>
+           <td style="width: 150px; height: 21px;font-family:Verdana; font-size:12px;"><span id="lblEmpLoc">Hyderabad</span>
+           </td>
+   </tr>
+       
+   
+       <tr>
+           <td class="letter">
+           </td>
+       </tr>
+       
+       <tr>
+            <td  style="font-family:Verdana; font-size:12px;">To,</td>
+            
+       </tr>
+    
+       <tr>
+           <td style="width: 121px">
+           </td>
+       </tr>
+       
+        <tr>
+           <td  style="font-family:Verdana; font-size:12px;">The HR Manager</td>
+       </tr>
+       
+       <tr>
+           <td  style="font-family:Verdana; font-size:12px;"><span id="lblLoc">Hyderabad</span></td>
+       </tr>
+       
+      
+        <tr>
+           <td  style="font-family:Verdana; font-size:12px;">
+               &nbsp;</td>
+       </tr>
+      
+      
+       
+       <tr>
+           <td>
+         
+               <table border="0">
+                   <tr>
+                       <td class="letter" style="width: 618px;font-family:Verdana; font-size:12px;">
+                         <span id="lreason" style="font-weight:bold;">Subject :</span>&nbsp;Resignation Letter</td>
+                   </tr>
+                   
+                    <tr>
+                       <td  style="font-family:Verdana; font-size:12px;">
+                           &nbsp;</td>
+                   </tr>
+                   
+                   
+                    <tr>
+                       <td class="letter" style="width: 618px;font-family:Verdana; font-size:12px;">
+                       <span id="lblReason">I have enjoyed working here&nbsp;.But circumstances made me to choose a different path&nbsp;to move up the ladder . It&nbsp;has been very enjoyable over the last few days, but sadly I must move on, hoping to pursue something bigger in my career.&nbsp;&nbsp;If I can be of any assistance during this transition, please do let me know. Thanking you.</span></td>
+                   </tr>
+       
+                  
+               <tr>
+                   <td style="width: 618px">
+                   </td>
+               </tr>
+              
+               <tr align="right">
+                   <td style="width: 618px;font-family:Verdana; font-size:12px;">Yours faithfully,
+                   </td>
+               </tr>
+               <tr>
+                <td></td>
+               </tr>
+                   <tr>
+                  
+                       <td style="width: 618px;font-family:Verdana; font-size:12px;text-align:right;">
+                         
+                           <span id="lblEmpNameSign">Hemanth Kumar Battula</span>
+                       </td>
+                   </tr>
+                   <tr>
+                    <td></td>
+                   </tr>
+                   
+                   <tr id="trSupContent">
+	<td style="font-family:Verdana; font-size:12px;">Note :Your Resignation request has been approved by Supervisor&nbsp;<span id="lblsupnamecontent">Basant Das</span>&nbsp;on &nbsp; <span id="lblsupappdt">25 Apr 2017</span></td>
+</tr>
+
+                   
+                    <tr>
+                    <td></td>
+                   </tr>
+                   
+                    
+                   
+                   
+           </table>
+           
+           </td>
+       </tr>
+   </table>    
+    </div>
+   
+</body>
+</html>
